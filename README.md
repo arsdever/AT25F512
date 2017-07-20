@@ -209,3 +209,4 @@ print                        // Prints every byte of device in hex format
   #{same_as_printStr}
   // !Note! difference is here ** are bytes are printed in hex format
 ```
+If my code isn't working please contact to me to fix any error in that. Email: arsen.gharagyozyn.96@gmail.com
