@@ -28,8 +28,6 @@ public:
     byte read(const unsigned long& addr);
     byte status();
     int info();
-    void deselect();
-    void select();
 };
 
 #endif
